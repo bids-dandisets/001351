@@ -98,6 +98,7 @@ contributor:
   - dcite:ProjectLeader
   schemaKey: Person
 dateCreated: '2025-02-28T17:50:48.711151+00:00'
+datePublished: '2025-04-01T15:55:34.405296+00:00'
 description: HMBA Lein PatchSeq upload (mouse) (Q1 2025)
 ethicsApproval: []
 id: DANDI:001351/draft
@@ -111,6 +112,18 @@ manifestLocation:
 name: 20250331_AIBS_Patchseq_mouse
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
+publishedBy:
+  endDate: '2025-04-01T15:55:34.405296+00:00'
+  id: urn:uuid:aa770980-aec4-48bb-8776-663e23fc42f3
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-04-01T15:55:34.405296+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:7766ac98-fa51-45ac-baf7-0c7ab032f10a
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
